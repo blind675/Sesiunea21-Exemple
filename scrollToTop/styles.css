@@ -1,0 +1,19 @@
+body {
+  font-size: 20px;
+  position: relative;
+}
+
+p {
+  /* width: 1200px; */
+}
+
+.buttonClass {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  /* left: -20px; */
+}
+
+button {
+  visibility: hidden;
+}
